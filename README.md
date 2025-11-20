@@ -96,10 +96,3 @@ In the _config_ folder there are 2 files that are used to configure the applicat
   }
   ```
 
-## Screenshots
-
-![momcambiturni altervista org_](https://github.com/DavideMurro/MomCambiTurni/assets/118051417/cba36d34-7553-4cbe-aa6f-34a8fa0fb6c3)
-![momcambiturni altervista org_home html](https://github.com/DavideMurro/MomCambiTurni/assets/118051417/964d68a3-ee19-4785-a6ad-177a8655575d)
-![momcambiturni altervista org_inserimento html](https://github.com/DavideMurro/MomCambiTurni/assets/118051417/738320df-a00e-45ce-9d64-bd09f8d39164)
-![momcambiturni altervista org_inserimento_riposo html](https://github.com/DavideMurro/MomCambiTurni/assets/118051417/08f9895d-6f46-4263-965f-9549d1ee45f1)
-![momcambiturni altervista org_visualizza html](https://github.com/DavideMurro/MomCambiTurni/assets/118051417/410e8ea3-464e-41f2-9351-f830fc2ab8fa)
